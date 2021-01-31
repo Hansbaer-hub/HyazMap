@@ -47,7 +47,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"ExitUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"Oben.json"
                 }],
