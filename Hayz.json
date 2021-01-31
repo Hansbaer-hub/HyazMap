@@ -45,7 +45,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exit Scene",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/HyazMap\/Oben.json"
                 }],
