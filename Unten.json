@@ -327,7 +327,7 @@
                     },
                  "properties":[
                         {
-                         "name":"coliides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
