@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Hyaz.json"
+                 "value":"Hyaz.json#start_von_oben"
                 }],
          "type":"tilelayer",
          "visible":true,
