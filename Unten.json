@@ -295,12 +295,6 @@
                              "height":32.3595505617978,
                              "id":2,
                              "name":"",
-                             "properties":[
-                                    {
-                                     "name":"collides",
-                                     "type":"bool",
-                                     "value":true
-                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
