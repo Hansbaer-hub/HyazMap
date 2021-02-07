@@ -99,6 +99,17 @@
          "id":17,
          "name":"simple_sounds",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"sound effect_Fart.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":44,
