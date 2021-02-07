@@ -91,7 +91,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"Muisk\/Ambience.mp3"
+                 "value":"Ambience.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
