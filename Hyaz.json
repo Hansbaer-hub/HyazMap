@@ -99,6 +99,17 @@
          "id":17,
          "name":"darts",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.memory-improvement-tips.com\/darts-game-online-window.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":23,
@@ -290,16 +301,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":204,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.memory-improvement-tips.com\/darts-game-online-window.html"
-                        }]
-                }],
          "tilewidth":32,
          "transparentcolor":"#ffffff"
         }, 
