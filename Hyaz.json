@@ -126,7 +126,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\/Musik\/Ambience"
+                 "value":"Muisk\/Ambience"
                 }],
          "type":"tilelayer",
          "visible":true,
