@@ -58,7 +58,7 @@
                  "value":"Bangarang.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":8,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":8,
          "x":0,
          "y":0
@@ -115,7 +115,7 @@
          "height":8,
          "id":2,
          "name":"above",
-         "opacity":0.3,
+         "opacity":0.4,
          "type":"tilelayer",
          "visible":true,
          "width":8,
