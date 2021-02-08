@@ -19,7 +19,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":""
+                 "value":"Bangarang.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
